@@ -1,0 +1,27 @@
+/* basic reset */
+
+
+* {
+    margin: 0;
+    paddin:  0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #e8efff;
+    width: 100%;
+    height: vh;
+    display: flex;
+    align-items: centre;
+    justify-content: centre;
+}
+.like_btn{
+    padding: 10px 15px;
+    background: #0080ff;
+    font-size: 18px;
+    font-family: 'open sans', sans-serif;
+    border: none;
+    color:#e8efff;
+    boder-radius: 5px;
+    cursor: pointer;
+}
